@@ -122,6 +122,7 @@ html {
     scroll-behavior: smooth;
     overflow-x: hidden;
     width: 100%;
+    zoom: 0.8;
 }
 
 body {
@@ -420,7 +421,7 @@ h3 {
    7) Hero
 ========================================= */
 .hero {
-    min-height: 65.5rem;
+    min-height: 52.5rem;
     display: flex;
     align-items: center;
     padding: var(--s-xl) 0;
@@ -1487,7 +1488,7 @@ h3 {
 
 .newsletter-col-left {
     background: #d8d8d8;
-    height: 38.5rem;
+    height: 40.5rem;
     position: relative;
     overflow: hidden;
 }
